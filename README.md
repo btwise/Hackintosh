@@ -1,43 +1,11 @@
 # Hackintosh
-
-[![img](https://img.shields.io/github/stars/daliansky/Hackintosh.svg?color=ff69b4&label=%E7%82%B9%E8%B5%9E&logoColor=ff69b4&style=social)](https://github.com/daliansky/Hackintosh) [![img](https://img.shields.io/github/followers/daliansky.svg?label=%E7%B2%89%E4%B8%9D&logoColor=success&style=social)](https://github.com/daliansky/Hackintosh) ![img](https://img.shields.io/github/contributors/daliansky/Hackintosh.svg?color=red&label=%E8%B4%A1%E7%8C%AE%E4%BA%BA%E6%95%B0) [![img](https://img.shields.io/github/last-commit/daliansky/Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/daliansky/Hackintosh) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/) 
-
-## 黑苹果长期维护机型整理 by @[我意](https://github.com/y010204025)
-
-> 整理这份清单的目的：在于给想体验黑苹果的人一个方向，也想减少大家重复造轮子，节约大家的时间。      
-> 所有文件均归属于原作者，本清单只列出链接。如果您不希望你的链接被这份清单收录，请发送邮件到 [y010204025@126.com](mailto:y010204025@126.com),我将移除链接      
-> 清单收录了 4 个月以内的有人长期维护并更新过 EFI 的机型链接，如果有新的链接希望收录到这份清单，请发送邮件到 [y010204025@126.com](mailto:y010204025@126.com)       
-> 致谢：感谢一直为黑苹果进行开发的各位开发者和愿意共享出 EFI 文件的开发者，谢谢！     
-> 最近有好几个人发邮件，请求适配机型。
-
-  * 建议大家使用[yandex搜索引擎](https://yandex.ru)、[github](https://github.com)先搜索下有没有自己的机型，型号一样，机型配置有差异可以忽略，使用你的机器型号+clover、型号+EFI、型号+mac、型号+Hackintosh等进行搜索。例如我最近更新了 elitebook840g3、840g4等几个机型的 EFI，就可以使用840g3+clover 840g3+EFI 等关键词进行搜索。
-
-  * 黑苹果论坛：
-       * **国内** [远景论坛](http://bbs.pcbeta.com)、[威锋论坛](http://bbs.feng.com)
-     * **国外** [insanelymac 论坛](https://www.insanelymac.com/forum/)、[tonymacx86论坛](https://www.tonymacx86.com/)、[德国黑苹果论坛](https://www.hackintosh-forum.de/)、[俄罗斯黑苹果论坛](https://www.applelife.ru)、[法国黑苹果论坛](https://www.hackintosh-montreal.com)、 [osxlatitude论坛](https://osxlatitude.com/forums/)
-
-* 一些黑苹果常用的软件或者驱动开发者的主页，希望大家能及时更新驱动和软件，驱动需要自己去对应驱动开发者的主页去更新。
   
   * *[RehabMan](https://bitbucket.org/RehabMan/)* 维护了很多黑苹果驱动和相关补丁
   * *[Vit9696](https://github.com/acidanthera)* lilu和相关插件、applealc的主要开发或维护者
   * *[Clover更新地址](https://sourceforge.net/projects/cloverefiboot/)* Clover团队更新 clover的主要发佈渠道
 * *[常用软件和驱动清单](https://github.com/daliansky/Hackintosh/blob/master/LinkList)* 整理了常用软件和驱动的主要发佈地址，持续修改……
   
-   
-
- *关于黑苹果，希望大家能摆正心态，容忍小问题的存在，某些功能无法实现或者是体验不好「触摸板、指点杆、触摸屏、雷电端口等等」，系统运行不稳定，容易卡机或者死机或者是开机不认引导、升级系统失败等都属于正常现象。 **每次升级前请先从各种驱动了解本次升级有没有大的改动，在升级前首先升级 Clover 和相关的 kext 驱动，需要添加补丁或者是更新补丁的请做好相关工作，不要等著出了问题再去寻找解决方案。** 在自己遇到问题的时候，请先通过网络寻找解决办法，无法解决再询问别人，请别人帮忙解决问题的时候，首先端正自己的态度，把问题描述清楚，能提供 log 日志或者是相关文件的先提供文件，提供不了文件的拍照拍清楚。*
-
-**解决问题，需要努力的是自己，不是让别人帮你努力；帮你解答是情分，不是义务**
-
-   
-
-### 同步更新：[黑果小兵的部落阁](<https://blog.daliansky.net/Hackintosh-long-term-maintenance-model-checklist.html>)
-
-### 机型讨论：[远景pcbeta.com](<http://bbs.pcbeta.com/viewthread-1795904-1-1.html>)
-
-
-
-更新日期：
+   更新日期：
 
 - 2018 年 10 月 06 日
 
@@ -446,7 +414,7 @@
 
 
 
-### 其它机型请提交到[这里](https://github.com/daliansky/Hackintosh) 
+### 其它机型请提交到[这里](https://github.com/btwise/Hackintosh) 
 
 
 
@@ -473,13 +441,3 @@
 612655811 elitebook_probook_zbook 系列机型黑苹果交流 500人群 非专用机型请勿加入
 
 308469644 [外星人Alienware黑苹果交流群](https://shang.qq.com/wpa/qunwpa?idkey=9f579e157ffed2a47be3861601080953453be323e50844005e9f2466dd2b12c5) 500人群 非专用机型请勿加入
-
-## 关于打赏
-
-如果您认可我的工作，请通过打赏支持我后续的更新
-
-| paypal                                                       | 微信                                                       | 支付宝                                               |
-| ------------------------------------------------------------ | ---------------------------------------------------------- | ---------------------------------------------------- |
-| [![paypal_daliansky](https://7.daliansky.net/paypal_daliansky.png)](https://www.paypal.me/daliansky) | ![wechatpay_160](http://7.daliansky.net/wechatpay_160.jpg) | ![alipay_160](http://7.daliansky.net/alipay_160.jpg) |
-
-[![img](https://img.shields.io/github/stars/daliansky/Hackintosh.svg?color=ff69b4&label=%E7%82%B9%E8%B5%9E&logoColor=ff69b4&style=social)](https://github.com/daliansky/Hackintosh) [![img](https://img.shields.io/github/followers/daliansky.svg?label=%E7%B2%89%E4%B8%9D&logoColor=success&style=social)](https://github.com/daliansky/Hackintosh) ![img](https://img.shields.io/github/contributors/daliansky/Hackintosh.svg?color=red&label=%E8%B4%A1%E7%8C%AE%E4%BA%BA%E6%95%B0) [![img](https://img.shields.io/github/last-commit/daliansky/Hackintosh.svg?color=orange&label=%E6%9C%80%E8%BF%91%E6%8F%90%E4%BA%A4)](https://github.com/daliansky/Hackintosh) [![img](https://img.shields.io/badge/link-996.icu-red.svg)](https://996.icu/) 
